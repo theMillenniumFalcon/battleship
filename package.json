@@ -1,0 +1,19 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "An easy to use engine to make your own Battleship Game\r --------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clean-jsdoc-theme": "^3.3.4",
+    "jsdoc": "^3.6.10",
+    "ncp": "^2.0.0",
+    "rollup": "^2.74.1",
+    "terser": "^5.13.1"
+  }
+}
