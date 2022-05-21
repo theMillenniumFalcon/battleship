@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "clean-jsdoc-theme": "^3.3.4",
     "jsdoc": "^3.6.10",
     "ncp": "^2.0.0",
