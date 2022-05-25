@@ -10,7 +10,7 @@
  * @property {number} ALREADY_SHOOT The cell as already been shoot
  * @property {number} NOT_IN_GAMESTATE Not in the required gamestate
  */
-export const Error = {
+const Error = {
     OK: 0,
     FAILED: 1,
     PIECE_TYPE_INVALID: 2,
@@ -19,3 +19,5 @@ export const Error = {
     ALREADY_SHOOT: 5,
     NOT_IN_GAMESTATE: 6
 }
+
+export default Error
