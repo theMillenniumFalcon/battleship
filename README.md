@@ -1,9 +1,6 @@
 # Battleship
 
-An easy to use engine to make your own Battleship Game
---------------------------------
-
-Battleship is a engine made in JavaScript.
+Battleship is a engine made in JavaScript, using low-level design principles.
 
 About Battleship
 --------------------------------
